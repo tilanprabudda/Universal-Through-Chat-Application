@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="this_is_receive_massage">This is receive massage</string>
+    <string name="this_is_send_massage">This is send massage</string>
+</resources>
